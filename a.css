@@ -14,7 +14,7 @@ h1{
 .walk1{
     width: 150px;
     height: 300px;
-    background-image: url(img/walk1.png);
+    background-image: url(spritesheet(1).png);
     background-repeat: no-repeat;
     background-size: 900px;
     animation: w1Effect 1s steps(6) infinite;
@@ -30,7 +30,7 @@ h1{
 .walk2{
     width: 150px;
     height: 300px;
-    background-image: url(img/walk2.png);
+    background-image: url(spritesheet(1).png);
     background-repeat: no-repeat;
     background-size: 1200px;
     animation: w2Effect 1s steps(8) infinite;
